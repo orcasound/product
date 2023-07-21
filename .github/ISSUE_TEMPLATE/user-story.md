@@ -18,9 +18,9 @@ The intent of this story is to (describe intent).
 - Note 1
 - Note 2
 - Note (N)
-- Task 1
-- Task 2
-- Task (N)
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task (N)
 
 **_Acceptance Criteria_**
 GIVEN I (action related to design) WHEN I (action based on previous action) THEN I see a UI that matches the attached UX/UI design (update based context).
